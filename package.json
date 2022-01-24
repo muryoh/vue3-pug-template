@@ -1,0 +1,12 @@
+{
+  "name": "@components-studio/divriots.vue3-pug-template",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx cso-cli@latest serve abtUEEEcv8tbBm6o3aS8 --open"
+  },
+  "dependencies": {
+    "troisjs": "^0.3.2",
+    "three": "^0.127",
+    "vue": "^3.0.11"
+  }
+}
