@@ -1,4 +1,4 @@
-# Vue 3 pug template demo
+# TEST PR
 
 Pug 🐶 Vue 3 🚀 TroisJS ✨
 
